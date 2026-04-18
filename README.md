@@ -49,7 +49,7 @@ A modern, AI-assisted event experience web app built for **PromptWars Virtual** 
 ### Installation
 
 Clone the repository
-git clone https://github.com/YOUR_USERNAME/innovatcon-2026.git
+git clone https://github.com/Saranyadharani/innovatcon-2026.git
 
 Navigate into the project
 cd innovatcon-2026
